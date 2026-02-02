@@ -146,7 +146,10 @@ col4.metric("Cargo mais frequente", cargo_mais_frequente)
 st.markdown("---")
 
 # --- Análises Visuais com Plotly ---
-st.subheader("Gráficos")
+st.markdown(
+    "<h3 style='color:#36B902;'>Gráficos</h3>",
+    unsafe_allow_html=True
+)
 
 col_graf1, col_graf2 = st.columns(2)
 
@@ -326,5 +329,8 @@ st.markdown("""
 </style>
 """, unsafe_allow_html=True)
 
-st.subheader("Dados Detalhados")
+st.markdown(
+    "<h3 style='color:#36B902;'>Dados Detalhados</h3>",
+    unsafe_allow_html=True
+)
 st.dataframe(df_filtrado)
