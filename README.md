@@ -1,4 +1,4 @@
-# Aula-1-Anlise-de-Dados-2026-AMAZING
+# Aula_Anlise-de-Dados-2026-AMAZING
 
 📊 Dashboard de Análise de Salários na Área de Dados
 
