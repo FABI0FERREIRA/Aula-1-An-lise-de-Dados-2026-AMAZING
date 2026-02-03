@@ -106,6 +106,10 @@ Durante este projeto, foram praticados e consolidados os seguintes tópicos:
 
 ✔️ Versionamento com Git e GitHub
 
+<img width="1439" height="646" alt="Captura de tela 2026-02-02 204121" src="https://github.com/user-attachments/assets/111bc9dd-977c-41ef-aca9-1860b4f3a2da" />
+
+
+
 🙌 Agradecimentos
 
 Projeto desenvolvido durante a Imersão em Dados com Python da Alura.
